@@ -61,22 +61,6 @@ The project uses sample business datasets consisting of the following tables:
 
 ---
 
-## 📁 Repository Structure
-
-```text
-SQL-Basics-Practice/
-│
-├── SQL_Basics.sql
-├── README.md
-└── screenshots/
-    ├── basic_queries.png
-    ├── joins.png
-    ├── case_statement.png
-    └── homework_output.png
-```
-
----
-
 ## 🎯 Learning Outcomes
 
 Through this project, I learned how to:
